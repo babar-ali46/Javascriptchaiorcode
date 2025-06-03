@@ -6,5 +6,5 @@
  //******************************** */
  const gameName= new String('hiteshhc')
  console.log(gameName)
- console.log(typeof[0
+ console.log(typeof[
  ])
